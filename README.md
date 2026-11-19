@@ -1,15 +1,15 @@
 # DIY Udoo Quad Distributed Computing Cluster
 
-<img src="https://raw.githubusercontent.com/Ballistyxx/eliferrara/master/assets/Distributed-Computing/full-assembly.webp" alt="Distributed Computing Cluster" width="45%" ALIGN="left" HSPACE="0" VSPACE="20"/>
+<img src="https://eliferrara.com/assets/Distributed-Computing/thumbnail.webp" alt="Distributed Computing Cluster" width="45%" ALIGN="left" HSPACE="0" VSPACE="20"/>
 <br><br><br><br><br>
-<img src="https://raw.githubusercontent.com/Ballistyxx/eliferrara/master/assets/Distributed-Computing/udoo-quad-top.webp" alt="Cluster Desktop Screenshot" width="45%" ALIGN="right" HSPACE="0" VSPACE="20"/>
+<img src="https://eliferrara.com/assets/Distributed-Computing/udoo-quad-top.webp" alt="Cluster Desktop Screenshot" width="45%" ALIGN="right" HSPACE="0" VSPACE="20"/>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Overview
 This project is a **DIY Distributed Computing Cluster** built from **13 Udoo Quad SBCs**, running **Armbian Linux**, and tied together with custom 3D-printed enclosures, a cooling manifold, and a custom-built power distribution board.
 
-✨ **Read the full blog post here:** [Building a Distributed Computing Cluster with Udoo Quads](https://eliferrara.com/2025/04/26/Distributed-Computing.html)
+✨ **Read the full blog post here:** [Building a Distributed Computing Cluster with Udoo Quads](https://eliferrara.com/blog/distributed-computing)
 
 ## Features
 ✔ **13-node Parallel Computing Cluster**  
@@ -92,8 +92,8 @@ All **STL**, **STEP**, and **library** are provided in this repository.
 This project is open-source under the **MIT License**.
 
 ## Author
-Developed by **Ballistyxx**  
-📧 **Contact:** [GitHub Issues](https://github.com/Ballistyxx/udoo-distributed-computer/issues)
+Developed by **Eli Ferrara**  
+📧 **Contact:** [GitHub Issues](https://github.com/eliferrara/udoo-distributed-computer/issues)
 
 ---
 
